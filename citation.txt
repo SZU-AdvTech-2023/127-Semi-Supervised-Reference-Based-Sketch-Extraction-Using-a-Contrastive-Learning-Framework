@@ -1,0 +1,9 @@
+@article{REPO127,
+    author = "Seo, Chang Wook and Ashtari, Amirsaman and Noh, Junyong",
+    journal = "ACM Transactions on Graphics (TOG)",
+    number = "4",
+    pages = "1--12",
+    title = "{Semi-Supervised Reference-Based Sketch Extraction Using a Contrastive Learning Framework}",
+    volume = "42",
+    year = "2023"
+}
